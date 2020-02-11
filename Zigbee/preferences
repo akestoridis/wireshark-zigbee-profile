@@ -1,0 +1,17 @@
+####### User Interface: Columns ########
+
+# Packet list column format
+# Each pair of strings consists of a column title and its format
+gui.column.format:
+	"No.", "%m",
+	"Time", "%t",
+	"Delta time", "%Tt",
+	"MAC Src", "%Cus:wpan.src16:0:R",
+	"NWK Src", "%Cus:zbee_nwk.src:0:R",
+	"MAC Dst", "%Cus:wpan.dst16:0:R",
+	"NWK Dst", "%Cus:zbee_nwk.dst:0:R",
+	"MAC SN", "%Cus:wpan.seq_no:0:R",
+	"NWK SN", "%Cus:zbee_nwk.seqno:0:R",
+	"Length", "%L",
+	"UTC date", "%Yut",
+	"Info", "%i"
