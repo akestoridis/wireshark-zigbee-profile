@@ -12,6 +12,6 @@ gui.column.format:
 	"NWK Dst", "%Cus:zbee_nwk.dst:0:R",
 	"MAC SN", "%Cus:wpan.seq_no:0:R",
 	"NWK SN", "%Cus:zbee_nwk.seqno:0:R",
-	"Length", "%L",
 	"UTC date", "%Yut",
+	"Length", "%L",
 	"Info", "%i"
