@@ -29,7 +29,7 @@ Both screenshots show the same packets from the `sth3-duos.pcap` file of the [CR
 
 This Wireshark configuration profile was used in the following publication:
 
-* D.-G. Akestoridis, M. Harishankar, M. Weber, and P. Tague, "Zigator: Analyzing the security of Zigbee-enabled smart homes," 2020, to appear in the Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec).
+* D.-G. Akestoridis, M. Harishankar, M. Weber, and P. Tague, "Zigator: Analyzing the security of Zigbee-enabled smart homes," in _Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)_, 2020, pp. 77--88. DOI: [10.1145/3395351.3399363](https://doi.org/10.1145/3395351.3399363).
 
 
 ## License
