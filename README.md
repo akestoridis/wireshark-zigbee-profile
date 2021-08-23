@@ -8,7 +8,7 @@ Wireshark configuration profile for Zigbee traffic
 You can install this Zigbee profile by copying the `Zigbee` folder of this repository and pasting it inside the `profiles` folder of your Wireshark personal configuration directory.
 In Linux distributions, this directory is typically located at `~/.config/wireshark`.
 In this case, you can install it by executing the following commands:
-```
+```console
 $ git clone https://github.com/akestoridis/wireshark-zigbee-profile.git
 $ cp -r wireshark-zigbee-profile/Zigbee/ ~/.config/wireshark/profiles/Zigbee/
 ```
@@ -22,14 +22,15 @@ The following screenshot showcases some of the profile's coloring rules, but sev
 
 <img src="screenshot-narrow.png">
 
-Both screenshots show the same packets from the `sth3-duos.pcap` file of the [CRAWDAD dataset cmu/zigbee‑smarthome](https://doi.org/10.15783/c7-nvc6-4q28).
+Both screenshots show the same packets from the `sth3-duos.pcap` file of the [CRAWDAD dataset cmu/zigbee-smarthome](https://doi.org/10.15783/c7-nvc6-4q28).
 
 
-## Publication
+## Publications
 
-This Wireshark configuration profile was used in the following publication:
+This Wireshark configuration profile was used in the following publications:
 
-* D.-G. Akestoridis, M. Harishankar, M. Weber, and P. Tague, "Zigator: Analyzing the security of Zigbee-enabled smart homes," in _Proceedings of the 13th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec)_, 2020, pp. 77--88. DOI: [10.1145/3395351.3399363](https://doi.org/10.1145/3395351.3399363).
+* D.-G. Akestoridis and P. Tague, “HiveGuard: A network security monitoring architecture for Zigbee networks,” to appear in Proc. IEEE CNS’21.
+* D.-G. Akestoridis, M. Harishankar, M. Weber, and P. Tague, “Zigator: Analyzing the security of Zigbee-enabled smart homes,” in *Proc. ACM WiSec’20*, 2020, pp. 77–88, doi: [10.1145/3395351.3399363](https://doi.org/10.1145/3395351.3399363).
 
 
 ## License
