@@ -18,19 +18,22 @@ Once you have copied the `Zigbee` folder of this repository and pasted it inside
 
 ## Screenshots
 
-The following screenshot showcases some of the profile's coloring rules, but several columns were hidden and the text was slightly enlarged to be more legible. A more detailed screenshot is available [here](screenshot-wide.png).
+The following screenshot showcases some of the profile's coloring rules, but several columns were hidden and the text was slightly enlarged to be more legible. A more detailed screenshot is available [here](https://github.com/akestoridis/wireshark-zigbee-profile/raw/7110457d020099e72139253628c3548e35e957fc/screenshot-wide.png).
 
-<img src="screenshot-narrow.png">
+<img src="https://github.com/akestoridis/wireshark-zigbee-profile/raw/7110457d020099e72139253628c3548e35e957fc/screenshot-narrow.png">
 
 Both screenshots show the same packets from the `sth3-duos.pcap` file of the [CRAWDAD dataset cmu/zigbee-smarthome](https://doi.org/10.15783/c7-nvc6-4q28).
 
 
-## Publications
+## Related Publications
 
-This Wireshark configuration profile was used in the following publications:
-
-* D.-G. Akestoridis and P. Tague, “HiveGuard: A network security monitoring architecture for Zigbee networks,” to appear in Proc. IEEE CNS’21.
+* D.-G. Akestoridis and P. Tague, “HiveGuard: A network security monitoring architecture for Zigbee networks,” in *Proc. IEEE CNS’21*, 2021, pp. 209–217, doi: [10.1109/CNS53000.2021.9705043](https://doi.org/10.1109/CNS53000.2021.9705043).
 * D.-G. Akestoridis, M. Harishankar, M. Weber, and P. Tague, “Zigator: Analyzing the security of Zigbee-enabled smart homes,” in *Proc. ACM WiSec’20*, 2020, pp. 77–88, doi: [10.1145/3395351.3399363](https://doi.org/10.1145/3395351.3399363).
+
+
+## Acknowledgments
+
+This project was supported in part by the Carnegie Mellon CyLab Security and Privacy Institute and in part by Carnegie Mellon University.
 
 
 ## License
